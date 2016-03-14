@@ -1,0 +1,28 @@
+name: andrewfearnside
+favicon: null
+layout_spectrum: 0.08409844804555178
+typography_spectrum: 0.19658963778056204
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.3421352175064385
+  lightness: 0.7042960899416357
+  saturation: 0.34668362769298255
+  rhythmicContrast: 0.8285327656194568
+purpose: []
